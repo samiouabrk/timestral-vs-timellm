@@ -41,12 +41,6 @@ No Time-LLM configuration beats a naive forecast. Timestral matches a calibrated
 
 Per-horizon tables, all model sizes, covariate runs and caveats: [RESULTS.md](RESULTS.md).
 
-## Caveats
-
-- Time-LLM and PatchTST ETTh1 numbers come from the Time-LLM paper, not a re-run.
-- The Timestral report does not list its real post-training datasets, so overlap with ETTh1 cannot be ruled out.
-- Two datasets only.
-
 ## Reproduce
 
 ```bash
