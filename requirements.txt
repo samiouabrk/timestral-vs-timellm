@@ -1,0 +1,5 @@
+timestral @ git+https://github.com/mistralai/timestral.git
+torch>=2.4
+numpy
+pandas
+statsmodels
